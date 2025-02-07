@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/kimsh/Downloads/c-cpp/projects/db/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++  -I/Users/kimsh/Downloads/c-cpp/projects/db/include -Wall -Wextra -pedantic -Werror -fsanitize=address,undefined,leak -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -Wno-c99-designator -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/db.dir/src/dbvalue.cpp.o -c /Users/kimsh/Downloads/c-cpp/projects/db/src/dbvalue.cpp",
+  "file": "/Users/kimsh/Downloads/c-cpp/projects/db/src/dbvalue.cpp",
+  "output": "CMakeFiles/db.dir/src/dbvalue.cpp.o"
+},
+{
+  "directory": "/Users/kimsh/Downloads/c-cpp/projects/db/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++  -I/Users/kimsh/Downloads/c-cpp/projects/db/include -Wall -Wextra -pedantic -Werror -fsanitize=address,undefined,leak -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -Wno-c99-designator -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/db.dir/src/main.cpp.o -c /Users/kimsh/Downloads/c-cpp/projects/db/src/main.cpp",
+  "file": "/Users/kimsh/Downloads/c-cpp/projects/db/src/main.cpp",
+  "output": "CMakeFiles/db.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/kimsh/Downloads/c-cpp/projects/db/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++  -I/Users/kimsh/Downloads/c-cpp/projects/db/include -Wall -Wextra -pedantic -Werror -fsanitize=address,undefined,leak -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -Wno-c99-designator -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/db.dir/src/tupledesc.cpp.o -c /Users/kimsh/Downloads/c-cpp/projects/db/src/tupledesc.cpp",
+  "file": "/Users/kimsh/Downloads/c-cpp/projects/db/src/tupledesc.cpp",
+  "output": "CMakeFiles/db.dir/src/tupledesc.cpp.o"
+},
+{
+  "directory": "/Users/kimsh/Downloads/c-cpp/projects/db/build/tests",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++  -I/Users/kimsh/Downloads/c-cpp/projects/db/include -isystem /opt/homebrew/include -Wall -Wextra -pedantic -Werror -fsanitize=address,undefined,leak -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -Wno-c99-designator -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/dbtest.dir/test_dbvalue.cpp.o -c /Users/kimsh/Downloads/c-cpp/projects/db/tests/test_dbvalue.cpp",
+  "file": "/Users/kimsh/Downloads/c-cpp/projects/db/tests/test_dbvalue.cpp",
+  "output": "tests/CMakeFiles/dbtest.dir/test_dbvalue.cpp.o"
+},
+{
+  "directory": "/Users/kimsh/Downloads/c-cpp/projects/db/build/tests",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++  -I/Users/kimsh/Downloads/c-cpp/projects/db/include -isystem /opt/homebrew/include -Wall -Wextra -pedantic -Werror -fsanitize=address,undefined,leak -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -Wno-c99-designator -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/dbtest.dir/test_tupledesc.cpp.o -c /Users/kimsh/Downloads/c-cpp/projects/db/tests/test_tupledesc.cpp",
+  "file": "/Users/kimsh/Downloads/c-cpp/projects/db/tests/test_tupledesc.cpp",
+  "output": "tests/CMakeFiles/dbtest.dir/test_tupledesc.cpp.o"
+},
+{
+  "directory": "/Users/kimsh/Downloads/c-cpp/projects/db/build/tests",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++  -I/Users/kimsh/Downloads/c-cpp/projects/db/include -isystem /opt/homebrew/include -Wall -Wextra -pedantic -Werror -fsanitize=address,undefined,leak -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -Wno-c99-designator -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/dbtest.dir/__/src/dbvalue.cpp.o -c /Users/kimsh/Downloads/c-cpp/projects/db/src/dbvalue.cpp",
+  "file": "/Users/kimsh/Downloads/c-cpp/projects/db/src/dbvalue.cpp",
+  "output": "tests/CMakeFiles/dbtest.dir/__/src/dbvalue.cpp.o"
+},
+{
+  "directory": "/Users/kimsh/Downloads/c-cpp/projects/db/build/tests",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++  -I/Users/kimsh/Downloads/c-cpp/projects/db/include -isystem /opt/homebrew/include -Wall -Wextra -pedantic -Werror -fsanitize=address,undefined,leak -fno-omit-frame-pointer -fno-optimize-sibling-calls -g -Wno-c99-designator -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/dbtest.dir/__/src/tupledesc.cpp.o -c /Users/kimsh/Downloads/c-cpp/projects/db/src/tupledesc.cpp",
+  "file": "/Users/kimsh/Downloads/c-cpp/projects/db/src/tupledesc.cpp",
+  "output": "tests/CMakeFiles/dbtest.dir/__/src/tupledesc.cpp.o"
+}
+]
